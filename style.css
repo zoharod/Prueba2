@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Poppins:300,400,700,900');
 
+
 .titulo span{
 	color: #fba755;
 }
@@ -23,6 +24,7 @@
 
 #sec-home p{
 	padding-bottom: 30px;
+	text-align: left;
 }
 
 .boton{
@@ -97,3 +99,4 @@ footer h1, p{
 i{
 	color: white;
 }
+
